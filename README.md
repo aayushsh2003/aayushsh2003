@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React,**
 
 - 📫 How to reach me **aayushsharma4437@gmail.com**
-- 👨‍💻 All of my projects are available at **https://aayush-ki-pehchan.vercel.app/**
+- 👨‍💻 All of my projects are available at **https://aiclassof26.vercel.app/portfolio/aayush-sharma**
 - 📄 Know about my experiences **https://aayush-ki-resume.vercel.app/**
 
 <div> <a href="https://www.linkedin.com/in/aayush-sharma-a44062299" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
